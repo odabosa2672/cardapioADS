@@ -1,4 +1,6 @@
-angular.module('cardapioADSApp').controller('homeCtrl',function($scope){
+angular.module('cardapioADSApp')
+
+.controller('homeCtrl',function($scope){
 
 
 });

@@ -1,8 +1,5 @@
 .container-login{
     margin-top: 100px;
-}
-
-.conteiner{
     max-width: 600px;
 }
 
@@ -12,4 +9,20 @@
 
 .col-login{
     margin-top: 25px;
+}
+
+.navbar-brand{
+    padding: 5px;
+}
+
+.app-container{
+    margin-top: 70px;
+}
+
+.panel{
+    width: 90%;
+}
+
+.form-row{
+    margin-top: 10px;
 }
